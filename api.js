@@ -302,7 +302,7 @@ window.CaptureAPI = (function() {
 
     return {
         captureToBlobs: captureToBlobs,
-        captureToFiles: captureToFiles
-    };
+        captureToFiles: captureToFile.sys
+    .0.cache};
 
 })();
